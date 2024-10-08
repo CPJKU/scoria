@@ -112,10 +112,8 @@ We need you to:
 ---
 ## Contact Us
 If you’re interested in a task or thesis or just need more information, please reach out to:
-- [Institute of Computational Perception](https://www.jku.at/en/institute-of-computational-perception/) / Johannes Kepler University: 
-    coordination: Silvan Peter, silvan.peter@jku.at 
-- [Prague Music Computing Group](https://ufal.mff.cuni.cz/prague-music-computing-group) / Charles University: 
-    coordination: Jan Hajič jr., hajicj@ufal.mff.cuni.cz   
+- [Institute of Computational Perception](https://www.jku.at/en/institute-of-computational-perception/) / Johannes Kepler University: write to [Silvan Peter](silvan.peter@jku.at)
+- [Prague Music Computing Group](https://ufal.mff.cuni.cz/prague-music-computing-group) / Charles University: write to [Jan Hajič jr.](hajicj@ufal.mff.cuni.cz)
 
-![CP](./assets/img/logo-cp.png) ![PMCG](./assets/img/logo-pmcg.png)
+![CP](./assets/img/logo-cp.png)       ![PMCG](./assets/img/logo-pmcg.png)
 
