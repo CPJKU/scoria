@@ -85,14 +85,14 @@ strong AI/ML/music computing background, motiovation and time commitment
 
 ## FAQs
 
-**What should my thesis look like in the end?**
-The goal of each thesis is to:
+**What should my thesis look like in the end?** 
+The goal of each thesis is to: 
 - write a comprehensive overview of both traditional and machine learning based approaches to the topic
 - (re)implement or adapt one state-of-the-art algorithm to work within the API specification of SCORIA
 - finish at latest by September 2025, when we’ll assemble all parts and release the scorification tool
 
-**Why should I join the SCORIA project?**
-We offer you:
+**Why should I join the SCORIA project?** 
+We offer you: 
 - interesting and challenging music AI tasks
 - supervision by experts in the field
 - collaborative work with peers across Czechia and Austria
@@ -100,8 +100,8 @@ We offer you:
 - a specified API for the pipeline
 - a utility codebase for symbolic music processing python and data which gets you started on the task right away
 
-**Which prerequites are necessary?**
-We need you to:
+**Which prerequites are necessary?** 
+We need you to: 
 - have a strong background in AI/ML/music computing
 - be interested in music scores and their intricacies, and you must be able to read music
 - be able and willing to complete a thesis within the time allotted.
