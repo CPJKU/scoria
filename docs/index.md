@@ -1,24 +1,26 @@
-# International Thesis Supervision & Open-Source Collaboration
+# SCORIA: International Thesis Supervision & Open-Source Collaboration
 
 ---
 ## Scorification
 Music scorification is the process to get from a symbolic MIDI recording to a readable score, that is, to estimate the quantization of onsets and offsets into musical time and to estimate meter, key, voice, and several more attributes. Scorification is a hard technical problem for which no satisfactory solutions exist yet.
+
 ## About the Project
 We aim to create a complete pipeline to automatically and beautifully typeset scores from recorded MIDI data. This is a huge undertaking encompassing many music information retrieval tasks. To make it manageable, we break this goal down into challenging subtasks, each addressed in its own thesis.
 
-Scoria is an international collaborative thesis project involving the Institute of Computational Perceptation at Johannes Kepler University in Linz, Austria and tghe Prague Music Computing Group at Charles University in Prague, Czechia. Through this collaboration, we aim to advance research in scorification while contributing to open-source development.
+Scoria is an international collaborative thesis project involving the Institute of Computational Perception at Johannes Kepler University in Linz, Austria and the Prague Music Computing Group at Charles University in Prague, Czechia. Through this collaboration, we aim to advance research in scorification while contributing to open-source development.
+
 ## Goal
 SCORIA is a scorification project. We aim to collaboratively create a complete pipeline to automatically and beautifully typeset scores from recorded MIDI data.
 
 ---
 ## Research Areas & Tasks
-**Scorification** is the process of transforming a real-life MIDI recording into a quantized, typeset musical score. This can be divided into two key areas: **MIDI Normalization** and **MIDI Scorification**.
+**Scorification** is the process of transforming a real-life MIDI recording into a quantized, typeset musical score. This can be divided into two key areas: **MIDI Normalization** and **MIDI Scorification**:
 - **MIDI Normalization** focuses on time-related aspects, such as quantizing note onsets and durations. The main objective is to adjust the timing of MIDI events (onsets and offsets) to align with meaningful musical values, like beats and note lengths.
 - **MIDI Scorification** deals with all other musical elements and attributes required for a readable typeset score. This includes estimating the correct time and key signatures, clef and staff placement, voice assignments, note stemming, and classifying musical ornamentation.
 
 ### Nine Challenging Thesis Topics
 To make both MIDI Normalization and MIDI Scorification more accessible and approachable, we have broken both areas into the following subtopics and related tasks:
-1. **MIDI Normalization**: [[#Free Performance Quantization (FP)]]
+1. **MIDI Normalization**: [Free Performance Quantization (FP)](#free-performance-quantization-fp)
 2. **MIDI Normalization**: [[#Performance to Click Quantization (PC)]]
 3. **MIDI Normalization**: [[#MuseScore MIDI Normalization (MS)]]
 4. **MIDI Scorification**: [[#Meter / Barline / Tie Estimation (MBT)]]
