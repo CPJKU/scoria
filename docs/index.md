@@ -30,7 +30,8 @@ To make both MIDI Normalization and MIDI Scorification more accessible and appro
 8. **MIDI Scorification**: [Stemming / Voice Estimation (SV)](#stemming--voice-estimation-sv)
 9. **MIDI Scorification**: [Ornamentation Classification (OC)](#ornamentation-classification-oc)
 
-For more details, see each project description below.
+
+For more details, see each project description below. 
 
 ---
 ### MIDI Normalization
@@ -68,18 +69,22 @@ Thesis work is aligned with open-source contributions.
 4. **Collaboration & Feedback**:
 Regular mentorship sessions ensure steady progress.
 5. **Final Submission & Contribution**:
-Each thesis work contributes to the open-source scorification pipeline, which will be released around September 2025.
+Each thesis work contributes to the open-source scorification pipeline, which will be released around September 2025. 
 
 --- 
 
 ## How to Apply:
-- **Process**: Select a research topic and task **by October 24, 2024**. (Note that topics are assigned on a FIFO basis.)
-- **Requirements**: strong AI/ML/music computing background, motiovation and time commitment
-- **Deadlines**: (Latest) by September 2025, when we'll release the scorification tool.
+- **Process**: 
+Select a research topic and task **by October 24, 2024**. (Note that topics are assigned on a FIFO basis.)
+- **Requirements**: 
+strong AI/ML/music computing background, motiovation and time commitment
+- **Deadlines**: 
+(Latest) by September 2025, when we'll release the scorification tool. 
 
 ---
 
 ## FAQs
+
 **What should my thesis look like in the end?**
 The goal of each thesis is to:
 - write a comprehensive overview of both traditional and machine learning based approaches to the topic
@@ -104,11 +109,11 @@ We need you to:
 ---
 ## Contact Us
 If you’re interested in a task or thesis or just need more information, please reach out to:
-- Institute of Computational Perception / Johannes Kepler University:
-  coordination: Silvan Peter, silvan.peter@jku.at
+- Institute of Computational Perception / Johannes Kepler University: 
+  coordination: Silvan Peter, silvan.peter@jku.at 
   https://www.jku.at/en/institute-of-computational-perception/
-- Prague Music Computing Group / Charles University:
-  coordination: Jan Hajič jr., hajicj@ufal.mff.cuni.cz
+- Prague Music Computing Group / Charles University: 
+  coordination: Jan Hajič jr., hajicj@ufal.mff.cuni.cz 
   https://ufal.mff.cuni.cz/prague-music-computing-group
 
 ![CP](./assets/img/logo-cp.png) ![PMCG](./assets/img/logo-pmcg.png)
