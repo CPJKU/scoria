@@ -21,15 +21,17 @@ SCORIA is a scorification project. We aim to collaboratively create a complete p
 ### Nine Challenging Thesis Topics
 To make both MIDI Normalization and MIDI Scorification more accessible and approachable, we have broken both areas into the following subtopics and related tasks:
 1. **MIDI Normalization**: [Free Performance Quantization (FP)](#free-performance-quantization-fp)
-2. **MIDI Normalization**: [[#Performance to Click Quantization (PC)]]
-3. **MIDI Normalization**: [[#MuseScore MIDI Normalization (MS)]]
-4. **MIDI Scorification**: [[#Meter / Barline / Tie Estimation (MBT)]]
-5. **MIDI Scorification**: [[#Key / Pitch Spelling Estimation (KPS)]]
-6. **MIDI Scorification**: [[#Beaming / Grouping Estimation (BG)]]
-7. **MIDI Scorification**: [[#Clef / Staff Estimation (CS)]]
-8. **MIDI Scorification**: [[#Stemming / Voice Estimation (SV)]]
-9. **MIDI Scorification**: [[#Ornamentation Classification (OC)]]
+2. **MIDI Normalization**: [Performance to Click Quantization (PC)](#performance-to-click-quantization-pc)
+3. **MIDI Normalization**: [MuseScore MIDI Normalization (MS)](#musescore-midi-normalization-ms)
+4. **MIDI Scorification**: [Meter / Barline / Tie Estimation (MBT)](#meter--barline--tie-estimation-mbt)
+5. **MIDI Scorification**: [Key / Pitch Spelling Estimation (KPS)](#key--pitch-spelling-estimation-kps)
+6. **MIDI Scorification**: [Beaming / Grouping Estimation (BG)](#beaming--grouping-estimation-bg)
+7. **MIDI Scorification**: [Clef / Staff Estimation (CS)](#clef--staff-estimation-cs)
+8. **MIDI Scorification**: [Stemming / Voice Estimation (SV)](#stemming--voice-estimation-sv)
+9. **MIDI Scorification**: [Ornamentation Classification (OC)](#ornamentation-classification-oc)
+
 For more details, see each project description below.
+
 ---
 ### MIDI Normalization
 #### Free Performance Quantization (FP)
@@ -41,6 +43,7 @@ MuseScore MIDI normalization refers to developing methods to process and clean u
 
 ---
 ### MIDI Scorification
+
 #### Meter / Barline / Tie Estimation (MBT)
 In this task, the focus is on detecting the meter (time signature), barlines (measure divisions), and ties (which connect notes across bars) from MIDI data. Since MIDI data doesn’t inherently include this information, the challenge is to analyze the timing and rhythmic structure of the notes to infer where the barlines should be placed and how notes should be tied across them. The aim is to ensure that the score reflects a musician's intuitive understanding of meter and phrasing.
 #### Key / Pitch Spelling Estimation (KPS)
@@ -66,12 +69,16 @@ Thesis work is aligned with open-source contributions.
 Regular mentorship sessions ensure steady progress.
 5. **Final Submission & Contribution**:
 Each thesis work contributes to the open-source scorification pipeline, which will be released around September 2025.
+
 --- 
+
 ## How to Apply:
 - **Process**: Select a research topic and task **by October 24, 2024**. (Note that topics are assigned on a FIFO basis.)
 - **Requirements**: strong AI/ML/music computing background, motiovation and time commitment
 - **Deadlines**: (Latest) by September 2025, when we'll release the scorification tool.
+
 ---
+
 ## FAQs
 **What should my thesis look like in the end?**
 The goal of each thesis is to:
@@ -99,9 +106,9 @@ We need you to:
 If you’re interested in a task or thesis or just need more information, please reach out to:
 - Institute of Computational Perception / Johannes Kepler University:
   coordination: Silvan Peter, silvan.peter@jku.at
-  Institute website: https://www.jku.at/en/institute-of-computational-perception/
+  https://www.jku.at/en/institute-of-computational-perception/
 - Prague Music Computing Group / Charles University:
   coordination: Jan Hajič jr., hajicj@ufal.mff.cuni.cz
-  Institute website: https://ufal.mff.cuni.cz/prague-music-computing-group
+  https://ufal.mff.cuni.cz/prague-music-computing-group
 
 ![CP](./assets/img/logo-cp.png) ![PMCG](./assets/img/logo-pmcg.png)
