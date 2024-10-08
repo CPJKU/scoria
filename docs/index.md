@@ -86,12 +86,14 @@ strong AI/ML/music computing background, motiovation and time commitment
 ## FAQs
 
 **What should my thesis look like in the end?** 
+
 The goal of each thesis is to: 
 - write a comprehensive overview of both traditional and machine learning based approaches to the topic
 - (re)implement or adapt one state-of-the-art algorithm to work within the API specification of SCORIA
 - finish at latest by September 2025, when we’ll assemble all parts and release the scorification tool
 
 **Why should I join the SCORIA project?** 
+
 We offer you: 
 - interesting and challenging music AI tasks
 - supervision by experts in the field
@@ -101,6 +103,7 @@ We offer you:
 - a utility codebase for symbolic music processing python and data which gets you started on the task right away
 
 **Which prerequites are necessary?** 
+
 We need you to: 
 - have a strong background in AI/ML/music computing
 - be interested in music scores and their intricacies, and you must be able to read music
@@ -111,9 +114,11 @@ We need you to:
 If you’re interested in a task or thesis or just need more information, please reach out to:
 - Institute of Computational Perception / Johannes Kepler University: 
   coordination: Silvan Peter, silvan.peter@jku.at 
+  
   https://www.jku.at/en/institute-of-computational-perception/
 - Prague Music Computing Group / Charles University: 
   coordination: Jan Hajič jr., hajicj@ufal.mff.cuni.cz 
+  
   https://ufal.mff.cuni.cz/prague-music-computing-group
 
 ![CP](./assets/img/logo-cp.png) ![PMCG](./assets/img/logo-pmcg.png)
