@@ -1,7 +1,7 @@
 # SCORIA: International Thesis Project & Open-Source Collaboration
 
 ---
-## October '24: We Are Currently Looking For Students To Join This Project! Are You Interested? -> at Johannes Kepler University write to [Silvan Peter](silvan.peter@jku.at), at Charles University write to [Jan Hajič jr.](hajicj@ufal.mff.cuni.cz)
+## October '24: We Are Currently Looking For Students To Join This Project! Are You Interested? -> at Johannes Kepler University write to [Silvan Peter](mailto:silvan.peter@jku.at), at Charles University write to [Jan Hajič jr.](mailto:hajicj@ufal.mff.cuni.cz)
 
 ---
 ## What is scorification?
@@ -134,7 +134,7 @@ We need you to:
 ## Contact Us
 If you’re interested in a task or thesis or just need more information, please reach out to:
 - [Institute of Computational Perception](https://www.jku.at/en/institute-of-computational-perception/) / Johannes Kepler University: write to [Silvan Peter](mailto:silvan.peter@jku.at)
-- [Prague Music Computing Group](https://ufal.mff.cuni.cz/prague-music-computing-group) / Charles University: write to [Jan Hajič jr.](hajicj@ufal.mff.cuni.cz)
+- [Prague Music Computing Group](https://ufal.mff.cuni.cz/prague-music-computing-group) / Charles University: write to [Jan Hajič jr.](mailto:hajicj@ufal.mff.cuni.cz)
 
 ![CP](./assets/img/logo-cp.png)       ![PMCG](./assets/img/logo-pmcg.png)
 
