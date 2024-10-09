@@ -32,6 +32,11 @@ To make both MIDI Normalization and MIDI Scorification more accessible and appro
 
 For more details, see each project description below. 
 
+<iframe width="420" height="315" src="./assets/vid/scoria_video_0.mp4" frameborder="0" allowfullscreen></iframe>
+
+
+
+
 ---
 ### MIDI Normalization
 #### Free Performance Quantization (FP)
