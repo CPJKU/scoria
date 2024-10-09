@@ -12,7 +12,8 @@ SCORIA is a scorification project. We aim to create a complete pipeline to autom
 
 SCORIA is an international collaborative thesis project involving the Institute of Computational Perception at Johannes Kepler University in Linz, Austria and the Prague Music Computing Group at Charles University in Prague, Czechia. Through this collaboration, we aim to advance research in scorification while contributing to open-source development.
 
-
+[Download Information Document](./assets/pdf/SCORIA_ thesis project information for students.pdf){: .btn }
+[Download Project Poster](./assets/pdf/one-pager.pdf){: .btn }
 
 ---
 ## Why Scorification?
