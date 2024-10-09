@@ -63,36 +63,39 @@ Stemming refers to deciding the direction of note stems (up or down), which help
 This task focuses on detecting and classifying ornamentation—decorative musical elements such as trills, grace notes, or mordents—that are often present in performance recordings but not explicitly encoded in MIDI data. The challenge is to identify when and where these ornaments occur and then properly represent them in the musical score using appropriate score onset and duration values. This ensures the score is both accurate and consistent, while (more) closely reflecting the nuances of the intended performance.
 
 ---
-## How It Works
+
+## Admistrative Stuff!
+
+**How can I join SCORIA and write my thesis with you?** 
+
+Pick a facorite research topic and task and send us an email. 
+Or just send us an email, and we figure out what task is suitable for you together.
+See contact info for each institute at the bottom of the page.
+Do this as soon as possible, we hope to distribute all topics by **by October 24, 2024**!
+
+**What does the process look like if I join SCORIA?** 
+
 1. **Student Enrollment**:
-Select a research topic.
+Select a research topic in discussion with us
 2. **Mentor Assignment**:
-International experts provide guidance and supervision.
-3. **Project Integration**:
-Thesis work is aligned with open-source contributions.
-4. **Collaboration & Feedback**:
-Regular mentorship sessions ensure steady progress.
-5. **Final Submission & Contribution**:
+You get a thesis (co-)supervisor that is a domain expert and can provide guidance and supervision.
+3. **Scientific Literature Search**:
+You start reading traditional and state-of-the-art works to thoroughly understand your topic.
+4. **Technical Project Integration**:
+You set up the necessary codebase for your task, implement a baseline, and integrate it with our pipeline API.
+5. **Collaboration & Feedback**:
+Regular mentorship sessions with your supervisor ensure steady progress. Less often full team meetings with all collaborators. 
+6. **Technical Implementation**:
+You pick at least one suitable method and implement it to interface with the pipeline API.
+7. **Thesis Experiments and Writing**:
+You develop a thesis with your supervisor, carry out and document your experiments and approach.
+8. **Final Submission & Contribution**:
 Each thesis work contributes to the open-source scorification pipeline, which will be released around September 2025. 
-
---- 
-
-## How to Apply:
-- **Process**: 
-Select a research topic and task **by October 24, 2024**. (Note that topics are assigned on a FIFO basis.)
-- **Requirements**: 
-strong AI/ML/music computing background, motiovation and time commitment
-- **Deadlines**: 
-(Latest) by September 2025, when we'll release the scorification tool. 
-
----
-
-## FAQs
 
 **What should my thesis look like in the end?** 
 
 The goal of each thesis is to: 
-- write a comprehensive overview of both traditional and machine learning based approaches to the topic
+- give a comprehensive overview of both traditional and machine learning based approaches to the topic
 - (re)implement or adapt one state-of-the-art algorithm to work within the API specification of SCORIA
 - finish at latest by September 2025, when we’ll assemble all parts and release the scorification tool
 
@@ -100,7 +103,7 @@ The goal of each thesis is to:
 
 We offer you: 
 - interesting and challenging music AI tasks
-- supervision by experts in the field
+- supervision and regular metnoring meetings by experts in the field
 - collaborative work with peers across Czechia and Austria
 - lasting contributions to an open source project beyond your own thesis
 - a specified API for the pipeline
@@ -112,6 +115,7 @@ We need you to:
 - have a strong background in AI/ML/music computing
 - be interested in music scores and their intricacies, and you must be able to read music
 - be able and willing to complete a thesis within the time allotted.
+- be interested in scorification :)
 
 ---
 ## Contact Us
