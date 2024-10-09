@@ -1,7 +1,7 @@
 # SCORIA: International Thesis Project & Open-Source Collaboration
 
 ---
-## October '24: We Are Currently Looking For Students To Join This Project! Are You Interested? -> at Johannes Kepler University write to [Silvan Peter](silvan.peter@jku.at), at Charles University: write to [Jan Hajič jr.](hajicj@ufal.mff.cuni.cz)
+## October '24: We Are Currently Looking For Students To Join This Project! Are You Interested? -> at Johannes Kepler University write to [Silvan Peter](silvan.peter@jku.at), at Charles University write to [Jan Hajič jr.](hajicj@ufal.mff.cuni.cz)
 
 ---
 ## What is scorification?
