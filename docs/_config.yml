@@ -1,6 +1,6 @@
 title: Scoria
 logo: ./assets/img/logo-project.png
-description: A collaborative open-source scorification project.
+description: A collaborative open-source scorification project. 
 # description: An international, collaborative BSc/MSc thesis project to create an open-source music scorification pipeline
 show_downloads: true
 theme: jekyll-theme-minimal
