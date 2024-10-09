@@ -12,13 +12,26 @@ SCORIA is an international collaborative thesis project involving the Institute 
 
 
 ---
+## Why Scorification?
+
+![CP](./assets/img/why.png)
+
+Scorification for music practise reasons: notation editors struggle to produce readable scores from recorded MIDI files and manually fixing such scores is very tedious. A good scorification tool would be very welcome!
+
+Scorification for scientific reasons: scorification assembles several of the most interesting and challenging tasks in computation music analysis and processing, which makes it an ideal playground for researchers and theses!
+
+Watch the video to see how a SCORIA could help with music notation:
+
+<iframe width="420" height="315" src="./assets/vid/scoria_video_0.mp4" frameborder="0" allowfullscreen></iframe>
+
+---
 ## Research Areas & Tasks
 **Scorification** is the process of transforming a real-life MIDI recording into a quantized, typeset musical score. This can be divided into two key areas: **MIDI Normalization** and **MIDI Scorification**:
 - **MIDI Normalization** focuses on time-related aspects, such as quantizing note onsets and durations. The main objective is to adjust the timing of MIDI events (onsets and offsets) to align with meaningful musical values, like beats and note lengths.
 - **MIDI Scorification** deals with all other musical elements and attributes required for a readable typeset score. This includes estimating the correct time and key signatures, clef and staff placement, voice assignments, note stemming, and classifying musical ornamentation.
 
 ### Nine Challenging Thesis Topics
-To make both MIDI Normalization and MIDI Scorification more accessible and approachable, we have broken both areas into the following subtopics and related tasks:
+To make both MIDI Normalization and MIDI Scorification more accessible and approachable, we have broken both areas into the following subtopics and related tasks (click on them for detailed description):
 1. **MIDI Normalization**: [Free Performance Quantization (FP)](#free-performance-quantization-fp)
 2. **MIDI Normalization**: [Performance to Click Quantization (PC)](#performance-to-click-quantization-pc)
 3. **MIDI Normalization**: [MuseScore MIDI Normalization (MS)](#musescore-midi-normalization-ms)
@@ -29,12 +42,8 @@ To make both MIDI Normalization and MIDI Scorification more accessible and appro
 8. **MIDI Scorification**: [Stemming / Voice Estimation (SV)](#stemming--voice-estimation-sv)
 9. **MIDI Scorification**: [Ornamentation Classification (OC)](#ornamentation-classification-oc)
 
-
-For more details, see each project description below. 
-
-<iframe width="420" height="315" src="./assets/vid/scoria_video_0.mp4" frameborder="0" allowfullscreen></iframe>
-
-
+These tasks have their respective I/O requirements depending on key area:
+![CP](./assets/img/SCORIA overview.png)
 
 
 ---
