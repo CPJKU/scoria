@@ -5,3 +5,13 @@ description: A collaborative open-source scorification project.
 show_downloads: true
 theme: jekyll-theme-minimal
 # remote_theme: pages-themes/minimal@v0.2.0
+# Add custom links to the sidebar
+sidebar_links:
+  - title:  Institute of Computational Perception
+    url: https://www.jku.at/en/institute-of-computational-perception/
+  - title: Prague Music Computing Group
+    url: https://ufal.mff.cuni.cz/prague-music-computing-group
+  - title: Download Information Document
+    url: ./assets/pdf/SCORIA_ thesis project information for students.pdf
+  - title: Download Project Poster
+    url: ./assets/pdf/one-pager.pdf
