@@ -1,6 +1,9 @@
 # SCORIA: International Thesis Project & Open-Source Collaboration
 
 ---
+## October '24: We Are Currently Looking For Students To Join This Project! Are You Interested? -> at Johannes Kepler University write to [Silvan Peter](silvan.peter@jku.at), at Charles University: write to [Jan Hajič jr.](hajicj@ufal.mff.cuni.cz)
+
+---
 ## What is scorification?
 Music scorification is the process to get from a symbolic MIDI recording to a readable score, that is, to estimate the quantization of onsets and offsets into musical time and to estimate meter, key, voice, and several more attributes. Scorification is a hard technical problem for which no satisfactory solutions exist yet.
 
@@ -18,9 +21,10 @@ SCORIA is an international collaborative thesis project involving the Institute 
 
 Scorification for **music practice reasons**: notation editors struggle to produce readable scores from recorded MIDI files and manually fixing such scores is very tedious. A good scorification tool would be very welcome!
 
-Scorification for **scientific reasons**: scorification assembles several of the most interesting and challenging tasks in computation music analysis and processing, which makes it an ideal playground for researchers and theses!
+Scorification for **scientific reasons**: scorification assembles several of the most interesting and challenging tasks in computational music analysis and processing, which makes it an ideal playground for researchers and theses!
 
 Watch the video to see how a SCORIA could help with music notation:
+
 <iframe width="420" height="315" src="./assets/vid/scoria_video_0.mp4" frameborder="0" allowfullscreen></iframe>
 
 ---
@@ -72,7 +76,7 @@ This task focuses on detecting and classifying ornamentation—decorative musica
 
 ---
 
-## Admistrative Stuff!
+## Administrative Stuff!
 
 **How can I join SCORIA and write my thesis with you?** 
 
