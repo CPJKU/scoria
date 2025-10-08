@@ -108,15 +108,13 @@ Each thesis work contributes to the open-source scorification pipeline, which wi
 
 The goal of each thesis is to: 
 - give a comprehensive overview of both traditional and machine learning based approaches to the topic
-- (re)implement or adapt one state-of-the-art algorithm to work within the API specification of SCORIA
-- finish at latest by September 2025, when we’ll assemble all parts and release the scorification tool
+- (re)implement or adapt one state-of-the-art algorithm to work with other modules of SCORIA
 
 **Why should I join the SCORIA project?** 
 
 We offer you: 
 - interesting and challenging music AI tasks
-- supervision and regular metnoring meetings by experts in the field
-- collaborative work with peers across Czechia and Austria
+- supervision and regular mentoring meetings by experts in the field
 - lasting contributions to an open source project beyond your own thesis
 - a specified API for the pipeline
 - a utility codebase for symbolic music processing python and data which gets you started on the task right away
