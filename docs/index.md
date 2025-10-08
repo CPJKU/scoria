@@ -1,7 +1,7 @@
 # SCORIA: International Thesis Project & Open-Source Collaboration
 
 ---
-## October '24: We Are Currently Looking For Students To Join This Project! Are You Interested? -> at Johannes Kepler University write to [Silvan Peter](mailto:silvan.peter@jku.at), at Charles University write to [Jan Hajič jr.](mailto:hajicj@ufal.mff.cuni.cz)
+## October '25: We Are Currently Looking For Students To Join This Project! Are You Interested? -> at Johannes Kepler University write to [Silvan Peter](mailto:silvan.peter@jku.at), at Charles University write to [Jan Hajič jr.](mailto:hajicj@ufal.mff.cuni.cz)
 
 ---
 ## What is scorification?
@@ -84,7 +84,6 @@ This task focuses on detecting and classifying ornamentation—decorative musica
 Pick a facorite research topic and task and send us an email. 
 Or just send us an email, and we figure out what task is suitable for you together.
 See contact info for each institute at the bottom of the page.
-Do this as soon as possible, we hope to distribute all topics by **by October 24, 2024**!
 
 **What does the process look like if I join SCORIA?** 
 
